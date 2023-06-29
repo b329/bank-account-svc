@@ -1,6 +1,10 @@
 # compiled output
 /dist
 /node_modules
+/kafka_0
+/kafka_1
+/kafka_2
+/zookeeper
 
 # Logs
 logs
